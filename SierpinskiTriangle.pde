@@ -1,9 +1,4 @@
-public class Sketch extends PApplet {
 
-  public void settings() {
-    size(400, 400);
-    
-  }
 
   public void setup(){
     size(400,400);
@@ -24,4 +19,3 @@ public class Sketch extends PApplet {
     }
     
   }
-}
